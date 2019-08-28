@@ -1,5 +1,5 @@
 # Java SMTP Standalone Service
-
+TEST
 This SMTP Service was made as an alternative use of local SMTP commands, like when your application server hasn't commands to execute a SMTP service or you don't had permission to install 3rd party software.
 
 
